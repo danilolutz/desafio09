@@ -1,4 +1,4 @@
-# Database and file upload
+# NodeJS Database Relations
 
 [![MIT](https://img.shields.io/github/license/danilolutz/desafio09)](https://img.shields.io/github/license/danilolutz/desafio09)
 
